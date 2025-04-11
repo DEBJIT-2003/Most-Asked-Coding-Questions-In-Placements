@@ -1,11 +1,5 @@
 /*29.Frequency Count:
 Given the string, Find the frequency of each character in it.
-The input string contains only lowercase letters. The output string should contain a letter followed by its frequency, 
-in the alphabetical order (from a - z)
-Input 1: babdc
-Output 1: a1b2c1d1
-Input 2: cbd
-Output 2: b1c1d1
  */
 import java.util.Scanner;
 
