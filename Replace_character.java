@@ -1,3 +1,4 @@
+//29. Write a code to Remove all characters from string except alphabets
 import java.util.Scanner;
 
 public class Replace_character {
